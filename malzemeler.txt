@@ -1,0 +1,15 @@
+Yumurta-Un (YU)
+Yumurta-Süt (YS)
+Yumurta-Kakao (YK)
+Un-Süt (US)
+Un-Kakao (UK)
+Süt-Kakao (SK)
+Yumurta-Un (YU)
+Yumurta-Süt (YS)
+Yumurta-Kakao (YK)
+Un-Süt (US)
+Un-Kakao (UK)
+Süt-Kakao (SK)
+
+
+
